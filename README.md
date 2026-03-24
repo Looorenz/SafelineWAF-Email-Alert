@@ -1,5 +1,5 @@
-# SafeLine WAF Monitoring System Integration [2026]
-## The script integrates SafeLine WAF with a monitoring system and uses Bash and Python for implementation.
+# SafeLine WAF Email Alert System Integration [2026]
+## The script integrates SafeLine WAF with a monitoring system to enable automated email alerts and uses Bash and Python for implementation.
 
 Make sure that SafeLine has the required dependencies installed:
 
